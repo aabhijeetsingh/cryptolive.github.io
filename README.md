@@ -1,2 +1,2 @@
 # cryptolive.github.io
-crypto live usd
+crypto live
